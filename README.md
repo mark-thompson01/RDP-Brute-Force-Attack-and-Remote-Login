@@ -2,9 +2,13 @@
 
 This lab demonstrates using hydra to perform a brute force attack on a Windows 10 PC with the RDP protocol. Then from there initiating a successful login to the target system with the compromised login credentials using xfreerdp.
 
+## Performing an nmap scan on port 3389 of the target
+
 ![RDPBFLab1.PNG](Images/RDPBFLab1.PNG)
 
 ![RDPBFLab2.PNG](Images/RDPBFLab2.PNG)
+
+## Using Hydra to run a brute force login scan on the target using the rdp protocol
 
 ![RDPBFLab3.PNG](Images/RDPBFLab3.PNG)
 
