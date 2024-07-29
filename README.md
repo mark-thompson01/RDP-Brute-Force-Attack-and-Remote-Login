@@ -8,7 +8,7 @@ This lab demonstrates using hydra to perform a brute force attack on a Windows 1
 
 ![RDPBFLab2.PNG](Images/RDPBFLab2.PNG)
 
-## Using Hydra to run a brute force login scan on the target using the rdp protocol
+## Using Hydra to run a brute force login scan on the target using the rdp protocol in conjunction with the rockyou.txt wordlist
 
 ![RDPBFLab3.PNG](Images/RDPBFLab3.PNG)
 
