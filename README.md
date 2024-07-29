@@ -22,6 +22,8 @@ This lab demonstrates using hydra to perform a brute force attack on a Windows 1
 
 ![RDPBFLab8.PNG](Images/RDPBFLab8.PNG)
 
+## Initiating a successful login attempt with the compromised credentials using xfreerdp
+
 ![RDPBFLab9.PNG](Images/RDPBFLab9.PNG)
 
 ![RDPBFLab10.PNG](Images/RDPBFLab10.PNG)
