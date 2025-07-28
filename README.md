@@ -35,6 +35,30 @@ The lab environment consists of two interconnected VMs:
 ---
 
 
+
+## 🔁 How to Recreate This Lab
+- Download and install Oracle VirtualBox.
+- Download, install, and setup a Kali Linux VM.
+- Spin up a Windows 10 VM or use a Windows 10 lab segmented desktop.
+- Use nmap to locate the Windows 10 machine on the network and identify port 3389 open.
+- Specify a wordlist to be used (e.g., /usr/share/wordlists/rockyou.txt).
+- Use Hydra in conjunction wuith the wordlist to run a brute force login scan.
+- Use xfreerdp to login to the host with the login credentials found.
+
+---
+
+
+## What I've Learned
+Through this project, I have learned how to:
+- Use Nmap to locate a Windows host on the network and identify open port 3389.
+- Use Hydra with a specified wordlist to run a brute force login scan on the target using the RDP protocol.
+- Use xfreerdp to initiate a successful login attempt with cracked credentials.
+
+
+
+---
+
+
 ## 📁 More from Me
 
 Visit my full GitHub Pages portfolio to explore additional projects:
