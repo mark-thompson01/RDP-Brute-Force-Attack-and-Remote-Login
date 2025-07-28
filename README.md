@@ -23,6 +23,18 @@ The lab environment consists of two interconnected VMs:
 ---
 
 
+## 🛠️ Tech Used
+- Oracle VirtualBox
+- Kali Linux VM
+- Windows 10 Desktop
+- nmap
+- hydra
+- xfreerdp
+
+
+--
+
+
 ## 📁 More from Me
 
 Visit my full GitHub Pages portfolio to explore additional projects:
