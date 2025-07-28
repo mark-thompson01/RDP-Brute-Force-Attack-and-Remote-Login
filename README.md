@@ -2,32 +2,42 @@
 
 This lab demonstrates using hydra to perform a brute force attack on a Windows 10 PC with the RDP protocol. Then from there initiating a successful login to the target system with the compromised login credentials using xfreerdp. This lab was performed in a segmented LAN environment for testing purposes. 
 
-## Performing an nmap scan on port 3389 of the target
 
-![RDPBFLab1.PNG](Images/RDPBFLab1.PNG)
+---
 
-![RDPBFLab2.PNG](Images/RDPBFLab2.PNG)
 
-## Using Hydra to run a brute force login scan on the target using the rdp protocol in conjunction with the rockyou.txt wordlist
+## 🖥️ **Live Project Webpage:**  
+👉 [RDP Brute Force Attack and Remote Login](https://mark-thompson01.github.io/MTPortfolio/Lab%20Projects/RDP%20Brute%20Force%20Attack%20and%20Remote%20Login/)
 
-![RDPBFLab3.PNG](Images/RDPBFLab3.PNG)
 
-![RDPBFLab4.PNG](Images/RDPBFLab4.PNG)
+---
 
-![RDPBFLab5.PNG](Images/RDPBFLab5.PNG)
 
-![RDPBFLab6.PNG](Images/RDPBFLab6.PNG)
+## Lab Setup
+The lab environment consists of two interconnected VMs:
 
-![RDPBFLab7.PNG](Images/RDPBFLab7.PNG)
+> **Kali Linux VM:** Platform used to run a brute force login scan on the target using RDP.
+> **Windows 10 Desktop:** Target used to carry out the RDP brute force attack on.
 
-![RDPBFLab8.PNG](Images/RDPBFLab8.PNG)
 
-## Initiating a successful login attempt with the compromised credentials using xfreerdp
+---
 
-![RDPBFLab9.PNG](Images/RDPBFLab9.PNG)
 
-![RDPBFLab10.PNG](Images/RDPBFLab10.PNG)
+## 📁 More from Me
 
-![RDPBFLab11.PNG](Images/RDPBFLab11.PNG)
+Visit my full GitHub Pages portfolio to explore additional projects:
 
-![RDPBFLab12.PNG](Images/RDPBFLab12.PNG)
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
+
+
+---
+
+
+
+## 📜 License
+
+This project is licensed under the 
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to use, share, and adapt this content, with appropriate credit.
