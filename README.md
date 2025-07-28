@@ -16,7 +16,7 @@ This lab demonstrates using hydra to perform a brute force attack on a Windows 1
 ## Lab Setup
 The lab environment consists of two interconnected VMs:
 
-> **Kali Linux VM:** Platform used to run a brute force login scan on the target using RDP.
+> **Kali Linux VM:** Platform used to run a brute force login scan on the target using RDP via Hydra.
 > **Windows 10 Desktop:** Target used to carry out the RDP brute force attack on.
 
 
